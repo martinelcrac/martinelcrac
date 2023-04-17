@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @martinelcrac
-- 👀 I’m interested in improve my lua and learn typescript
-- 🌱 I’m currently learning lua
-- 💞️ I’m looking to collaborate on roblox scripts
-- 📫 How to reach me dc: martiin#0015
+hola chicos como estan son martin 
+
+
+Martiin#0014
